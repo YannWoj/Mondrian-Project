@@ -16,7 +16,7 @@ Reproduction of Piet Mondrian's artwork - 'Composition No. III, with red, blue, 
 
 ## 🏁 Getting Started
 
-Follow these steps to set up and run the meme generator on your local machine.
+Follow these steps to set up and run the mondrian project on your local machine.
 
 ### 📋 Prerequisites
 
